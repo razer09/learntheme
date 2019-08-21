@@ -1,0 +1,58 @@
+
+
+.navbar .navbar-nav{
+	margin-right: auto!important;
+	margin-left: 0!important;
+}
+
+.upper-bar .info:first-child{
+	text-align: right!important;
+}
+
+.upper-bar .info:last-child{
+	text-align: left!important;
+}
+
+.copyright .container div:first-child{
+	text-align: right!important;
+}
+
+.copyright .container div:last-child{
+	text-align: left!important;
+}
+
+.footer .site-info{
+	text-align: right;
+}
+
+.slider .carousel-inner h1{
+	text-align: right;
+	left: 0;
+	right: 20%;
+}
+
+.choose-us{
+	text-align: right;
+}
+
+.choose-us .read-more{
+	margin: 0 40px 0 0;
+}
+
+.contact-us p{
+	text-align: right!important;
+}
+
+.footer .helpful-links ul li:before{
+	content: none;
+}
+
+.footer .helpful-links ul li:after{
+	font-family: 'FontAwesome';
+    content: "\f054";
+    margin-right: 5px;
+    color: #08526d;
+    font-size: 12px;
+    position: relative;
+    top: -1px;
+}
